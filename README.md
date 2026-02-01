@@ -25,7 +25,7 @@ I am Mohit Sharma, a B.Tech student currently learning Java with Data Structures
 I have a strong interest in Artificial Intelligence, Machine Learning, and Data Analytics, and I enjoy combining programming with scientific and analytical research.  
 My goal is to develop practical skills in ERP systems and computational analysis for real-world applications.
 
-Email: mohitshharma@gmail.com  
+Email: mohitshermah@gmail.com  
 Phone: +91 7229822608  
 LinkedIn: [https://www.linkedin.com/in/mohit-sharma-6223793a0/](https://www.linkedin.com/in/mohit-sharma-6223793a0/)  
 GitHub: [https://github.com/MOHITSHHARRMA](https://github.com/MOHITSHHARRMA)
